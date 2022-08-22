@@ -18,6 +18,7 @@ class MovieReview:
         }  
 
     def add_movie_ratings(self, movie_list):
+        moviereviews = [].
         movie_list.append(self.myrating)
     
     def avg_star_ratings(self, movie_list):
